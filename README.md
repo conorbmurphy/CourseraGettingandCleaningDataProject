@@ -6,6 +6,7 @@ The goal of this assignment is to provide tidy data for later analysis
 The scope of the assignment includes the following:
 
 * This readme file
+* A script for creating a tidy data set called run_analysis.R
 * A code book that describes the variables, data, and work called CodeBook.md
 * A tidy data set
  
