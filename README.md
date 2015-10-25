@@ -8,7 +8,7 @@ The scope of the assignment includes the following:
 * This readme file
 * A script for creating a tidy data set called run_analysis.R
 * A code book that describes the variables, data, and work called CodeBook.md
-* A tidy data set
+* A tidy data set called step5.txt
  
 More information on the data used can be found here:
 
