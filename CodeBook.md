@@ -14,4 +14,4 @@ After running run_analysis.R, a file named step5.txt is created which has the me
 
 6 activities were monitoried and are labled in the "activities" column
 
-The 68 remaining variables are those with measures for mean or standard deviation.  Please see the README.txt and features_info.txt in the dataset for additional information
+The 68 remaining variables are those with measures for mean or standard deviation normalized and bounded withing [-1,1].  Please see the README.txt and features_info.txt in the dataset for additional information
